@@ -1,0 +1,81 @@
+ol {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+}
+li {
+	float: right;
+}
+li a {
+	display: inline-block;
+	padding: 10px;
+	color: black;
+	font-size: 12px;
+}
+h3 {
+	text-align: center;
+	text-shadow: 1px 1px gray;
+}
+h1 {
+	text-align: center;
+	font-size: 72px;
+	padding-top: 150px;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	line-height: 0.7;
+	text-shadow: 1px 1px gray;
+}
+h4 {
+	text-align: center;
+	font-size: 20px;
+	text-shadow: 1px 1px gray;
+}
+.homepage-container {
+	text-align: center;
+	padding-top: 200px;
+}
+.homepage-center-text {
+}
+.youtube-container {
+	text-align: center;
+	padding-top: 50px;
+}
+.youtube {
+}
+body {
+	background-image: url("src/background5.png");
+}
+.image-container {
+	text-align: center;
+	padding-top: 25px;
+}
+.image {
+}
+input[type=text] {
+	width: 20%;
+	padding: 10px 15px;
+	box-sizing: border-box;
+}
+form {
+	text-align: center;
+}
+.button {
+	background-color: #4CAF50; /* Green */
+	border: none;
+	color: white;
+	padding: 12px 25px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 14px;
+}
+.features-list {
+	padding: 10px 10px;
+	text-align: center;
+	
+}
+
+
+
+
+
