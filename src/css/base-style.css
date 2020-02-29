@@ -29,7 +29,7 @@ h3 {
 }
 h1 {
 	text-align: center;
-	font-size: 72px;
+	font-size: 60px;
 	padding-top: 150px;
 	font-family: "Trebuchet MS", Helvetica, sans-serif;
 	line-height: 0.7;
@@ -39,7 +39,16 @@ h4 {
 	text-align: center;
 	font-size: 20px;
 	text-shadow: 1px 1px gray;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	padding-right: 200px;
+	padding-left: 200px;
 }
+h5 {
+	text-align: center;
+	padding-right: 300px;
+	padding-left: 300px;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+}	
 .homepage-container {
 	text-align: center;
 	padding-top: 200px;
@@ -58,8 +67,12 @@ body {
 .image-container {
 	text-align: center;
 	padding-top: 25px;
+	padding-bottom: 25px;
 }
 .image {
+	padding-top: 25px;
+	padding-bottom: 25px;
+	text-align: center;
 }
 input[type=text] {
 	width: 20%;
@@ -69,8 +82,11 @@ input[type=text] {
 form {
 	text-align: center;
 }
+.message-box {
+	text-align: center;
+}
 .button {
-	background-color: #4CAF50; /* Green */
+	background-color: #4CAF50;
 	border: none;
 	color: white;
 	padding: 12px 25px;
@@ -82,6 +98,9 @@ form {
 .features-list {
 	padding: 10px 10px;
 	text-align: center;
-	
+}
+hr {
+	color: gray;
+	width: 60%;
 }
 
