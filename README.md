@@ -11,16 +11,16 @@ landing page:
 ![landing page](https://i.imgur.com/GEPxDhF.jpg)
 
 contact page:
-![contact page](https://i.imgur.com/MrfYCTP.jpg)
+![contact page](https://i.imgur.com/s16O1Rl.jpg)
 
 about page:
-![about page](https://i.imgur.com/H6PctXS.jpg)
+![about page](https://i.imgur.com/UyLAj6E.jpg)
 
 add to server page:
 ![add to server page](https://i.imgur.com/3wWsL5r.jpg)
 
 status page:
-![status page](https://i.imgur.com/zDZ8lw0.jpg)
+![status page](https://i.imgur.com/4PcL72u.jpg)
 
 features page:
-![features page](https://i.imgur.com/QYLX3IX.jpg)
+![features page](https://i.imgur.com/ndHhLpw.jpg)
