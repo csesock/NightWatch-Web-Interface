@@ -20,8 +20,7 @@ li a {
 	font-size: 12px;
 }
 li a:hover {
-	text-color: white;
-	background-color: white;
+	text-decoration: none;
 }
 h3 {
 	text-align: center;
@@ -62,7 +61,8 @@ h5 {
 .youtube {
 }
 body {
-	background-image: url("../../assets/background5.png");
+	background-image: url("../../assets/background6.jpg");
+	background-size: auto;
 }
 .image-container {
 	text-align: center;
@@ -85,22 +85,49 @@ form {
 .message-box {
 	text-align: center;
 }
+
 .button {
-	background-color: #4CAF50;
-	border: none;
-	color: white;
-	padding: 12px 25px;
-	text-align: center;
-	text-decoration: none;
-	display: inline-block;
-	font-size: 14px;
+  display: inline-block;
+  border-radius: 4px;
+  background-color: #1fe043;
+  border: none;
+  color: #FFFFFF;
+  text-align: center;
+  font-size: 16px;
+  padding: 12px;
+  width: 120px;
+  transition: all 0.5s;
+  cursor: pointer;
+  margin: 5px;
 }
+.button span {
+  cursor: pointer;
+  display: inline-block;
+  position: relative;
+  transition: 0.5s;
+}
+.button span:after {
+  content: '\00bb';
+  position: absolute;
+  opacity: 0;
+  top: 0;
+  right: -20px;
+  transition: 0.5s;
+}
+.button:hover span {
+  padding-right: 25px;
+}
+.button:hover span:after {
+  opacity: 1;
+  right: 0;
+}
+
 .features-list {
 	padding: 10px 10px;
 	text-align: center;
 }
 hr {
 	color: gray;
-	width: 60%;
+	width: 50%;
 }
 
