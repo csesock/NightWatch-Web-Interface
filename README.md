@@ -14,7 +14,7 @@ contact page:
 ![contact page](https://i.imgur.com/ZzHAt6j.jpg)
 
 about page:
-![about page](https://i.imgur.com/JL1nWYv.jpg)
+![about page](https://i.imgur.com/7UF0w36.jpg)
 
 add to server page:
 ![add to server page](https://i.imgur.com/3wWsL5r.jpg)
