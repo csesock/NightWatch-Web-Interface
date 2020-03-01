@@ -5,7 +5,7 @@ NightWatch is a Discord bot built to fill the role of other bots a typical user 
 
 The repo for NightWatch can be found here: https://github.com/Nightwatch
 
-# Examples of the site progress:
+# Examples of site pages:
 
 landing page:
 ![landing page](https://i.imgur.com/PNfMx0G.jpg)
