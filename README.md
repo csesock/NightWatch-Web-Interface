@@ -8,13 +8,13 @@ The repo for NightWatch can be found here: https://github.com/Nightwatch
 # Examples of site pages:
 
 landing page:
-![landing page](https://i.imgur.com/PNfMx0G.jpg)
+![landing page](https://i.imgur.com/GEPxDhF.jpg)
 
 contact page:
-![contact page](https://i.imgur.com/y13xwj6.jpg)
+![contact page](https://i.imgur.com/ZzHAt6j.jpg)
 
 about page:
-![about page](https://i.imgur.com/7eBYDHn.jpg)
+![about page](https://i.imgur.com/JL1nWYv.jpg)
 
 add to server page:
 ![add to server page](https://i.imgur.com/3wWsL5r.jpg)
