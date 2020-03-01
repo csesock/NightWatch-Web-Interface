@@ -43,9 +43,11 @@ h4 {
 	padding-left: 200px;
 }
 h5 {
+	/* default body text size */
 	text-align: center;
 	padding-right: 300px;
 	padding-left: 300px;
+	font-size: 16px;
 	font-family: "Trebuchet MS", Helvetica, sans-serif;
 }	
 .homepage-container {
@@ -72,6 +74,12 @@ body {
 .image {
 	padding-top: 25px;
 	padding-bottom: 25px;
+	text-align: center;
+}
+img {
+	text-align: center;
+}
+h6 {
 	text-align: center;
 }
 input[type=text] {
